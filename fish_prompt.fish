@@ -1,3 +1,3 @@
 function fish_prompt
-    printf '%s ❯ ' (prompt_pwd)
+    printf '  %s ❯ ' (prompt_pwd)
 end
